@@ -39,6 +39,7 @@ const DENYLIST: &[&str] = &[
     "steamwebhelper.exe",
     "epicgameslauncher.exe",
     "code.exe",
+	"zed.exe"
     "devenv.exe",
     "windowsterminal.exe",
     "powershell.exe",
