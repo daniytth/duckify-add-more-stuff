@@ -52,6 +52,7 @@ const STEAM_NON_GAMES: &[u32] = &[
     1391110,
     1628350,
 	1787090,
+	365670,
 ];
 
 #[derive(Debug, Clone, PartialEq, Eq)]
